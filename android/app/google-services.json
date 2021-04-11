@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086600475415",
+    "firebase_url": "https://bshop-47583.firebaseio.com",
+    "project_id": "bshop-47583",
+    "storage_bucket": "bshop-47583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086600475415:android:d5f273aaf43302f8bc7d52",
+        "android_client_info": {
+          "package_name": "br.com.monteiro.bhop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086600475415-58i5ep0nsm3s340ahle880ortsgrkefl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfycR128aPWf2N9oHSFXU5SsaVsgFQUaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086600475415-58i5ep0nsm3s340ahle880ortsgrkefl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
